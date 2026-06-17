@@ -78,7 +78,3 @@ La repository è ora disponibile e sincronizzata su GitHub:
 https://github.com/nicolacigognetti-cpu/nuclear-transition-models
 ```
 
-Status:
-- ✅ Git repository locale inizializzato
-- ✅ Codice sincronizzato su GitHub (branch main)
-- ✅ Repository pubblica
