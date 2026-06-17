@@ -1,4 +1,4 @@
-# Nuclear Transition Models
+# Energy transition Models
 
 Repository di supporto per i modelli Python del progetto "Storia Futura".
 Include i due script principali richiesti, con istruzioni per esecuzione e dipendenze.
@@ -6,9 +6,9 @@ Include i due script principali richiesti, con istruzioni per esecuzione e dipen
 ## Contenuto
 
 - `codice_5_FIXED  (1).py`
-  - Modello nucleare e scenari geopolitici per Cina / USA / UE.
+  - Modello nucleare e scenari geopolitici per Cina / USA .
 - `codice_6_comparison (1).py`
-  - Script di confronto tra scenari o metriche basate sul modello.
+  - Script di confronto tra scenari e metriche basate sul modello.
 - `requirements.txt`
   - Elenco delle librerie Python necessarie.
 - `.gitignore`
