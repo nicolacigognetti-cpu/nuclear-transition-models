@@ -70,6 +70,15 @@ git commit -m "Initial commit"
 git push -u origin main
 ```
 
-## Limitazioni
+## Repository GitHub
 
-- L'ambiente locale in uso non contiene l'eseguibile `git`, quindi la repository è stata preparata ma non inizializzata con Git automaticamente.
+La repository è ora disponibile e sincronizzata su GitHub:
+
+```
+https://github.com/nicolacigognetti-cpu/nuclear-transition-models
+```
+
+Status:
+- ✅ Git repository locale inizializzato
+- ✅ Codice sincronizzato su GitHub (branch main)
+- ✅ Repository pubblica
